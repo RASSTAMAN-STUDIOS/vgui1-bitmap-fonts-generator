@@ -1,0 +1,147 @@
+;=======================================================================================
+; Targa Name			Typeface	Font Style	Size	Charset
+;=======================================================================================
+
+; ------------------------
+; Hint Message Text (VGUI)
+; ------------------------
+
+320_HintMessage Text			Lucida Console	Regular		9	default
+400_HintMessage Text			Arial			Regular		13	default
+512_HintMessage Text			Arial			Regular		13	default
+640_HintMessage Text			Tahoma			Regular		13	default
+800_HintMessage Text			Verdana			Bold		14	default
+1024_HintMessage Text			Arial			Bold		20	default
+1152_HintMessage Text			Arial			Bold		24	default
+1280_HintMessage Text			Arial			Bold		27	default
+1366_HintMessage Text			Arial			Bold		27	default
+1440_HintMessage Text			Arial			Bold		29	default
+1600_HintMessage Text			Verdana			Regular		20	default
+1920_HintMessage Text			Verdana			Regular		22	default
+2400_HintMessage Text			Verdana			Regular		25	default
+
+; -----------------
+; Basic Text (VGUI)
+; -----------------
+
+640_Basic Text			Arial		Regular		17	default
+
+; --------------------
+; Briefing Text (VGUI)
+; --------------------
+
+640_Briefing Text		Tahoma		Regular		12	default
+800_Briefing Text		Tahoma		Regular		13	default
+1024_Briefing Text		Verdana		Regular		16	default
+1152_Briefing Text		Verdana		Regular		16	default
+1280_Briefing Text		Verdana		Regular		18	default
+1366_Briefing Text		Verdana		Regular		18	default
+1440_Briefing Text		Verdana		Regular		19	default
+1600_Briefing Text		Verdana		Regular		20	default
+1920_Briefing Text		Verdana		Regular		22	default
+2400_Briefing Text		Verdana		Regular		25	default
+
+; ------------------------
+; Command Menu Text (VGUI)
+; ------------------------
+
+640_CommandMenu Text		Tahoma		Bold		12	default
+800_CommandMenu Text		Tahoma		Bold		13	default
+1024_CommandMenu Text		Verdana		Bold		16	default
+1152_CommandMenu Text		Verdana		Bold		16	default
+1280_CommandMenu Text		Verdana		Bold		18	default
+1366_CommandMenu Text		Verdana		Bold		18	default
+1440_CommandMenu Text		Verdana		Bold		19	default
+1600_CommandMenu Text		Verdana		Bold		20	default
+1920_CommandMenu Text		Verdana		Bold		22	default
+2400_CommandMenu Text		Verdana		Bold		25	default
+
+; --------------------------
+; Primary Button Text (VGUI)
+; --------------------------
+
+640_Primary Button Text		Tahoma		Bold		12	default
+800_Primary Button Text		Tahoma		Bold		13	default
+1024_Primary Button Text	Verdana		Bold		16	default
+1152_Primary Button Text	Verdana		Bold		16	default
+1280_Primary Button Text	Verdana		Bold		18	default
+1366_Primary Button Text	Verdana		Bold		18	default
+1440_Primary Button Text	Verdana		Bold		19	default
+1600_Primary Button Text	Verdana		Bold		20	default
+1920_Primary Button Text	Verdana		Bold		22	default
+2400_Primary Button Text	Verdana		Bold		25	default
+
+; ----------------------------
+; Scoreboard Small Text (VGUI)
+; ----------------------------
+
+640_Scoreboard Small Text	Tahoma		Regular		12	default
+800_Scoreboard Small Text	Tahoma		Regular		13	default
+1024_Scoreboard Small Text	Verdana		Regular		16	default
+1152_Scoreboard Small Text	Verdana		Regular		16	default
+1280_Scoreboard Small Text	Verdana		Regular		18	default
+1366_Scoreboard Small Text	Verdana		Regular		18	default
+1440_Scoreboard Small Text	Verdana		Regular		19	default
+1600_Scoreboard Small Text	Verdana		Regular		20	default
+1920_Scoreboard Small Text	Verdana		Regular		22	default
+2400_Scoreboard Small Text	Verdana		Regular		25	default
+
+; ----------------------
+; Scoreboard Text (VGUI)
+; ----------------------
+
+640_Scoreboard Text		Tahoma		Regular		12	default
+800_Scoreboard Text		Tahoma		Regular		13	default
+1024_Scoreboard Text		Verdana		Regular		16	default
+1152_Scoreboard Text		Verdana		Regular		16	default
+1280_Scoreboard Text		Verdana		Regular		18	default
+1366_Scoreboard Text		Verdana		Regular		18	default
+1440_Scoreboard Text		Verdana		Regular		19	default
+1600_Scoreboard Text		Verdana		Regular		20	default
+1920_Scoreboard Text		Verdana		Regular		22	default
+2400_Scoreboard Text		Verdana		Regular		25	default
+
+; ----------------------------
+; Scoreboard Title Text (VGUI)
+; ----------------------------
+
+640_Scoreboard Title Text	Tahoma		Bold		12	default
+800_Scoreboard Title Text	Verdana		Bold		14	default
+1024_Scoreboard Title Text	Arial		Bold		20	default
+1152_Scoreboard Title Text	Arial		Bold		24	default
+1280_Scoreboard Title Text	Arial		Bold		27	default
+1366_Scoreboard Title Text	Arial		Bold		27	default
+1440_Scoreboard Title Text	Arial		Bold		28	default
+1600_Scoreboard Title Text	Arial		Bold		32	default
+1920_Scoreboard Title Text	Arial		Bold		34	default
+2400_Scoreboard Title Text	Arial		Bold		37	default
+
+; ---------------------
+; Team Info Text (VGUI)
+; ---------------------
+
+640_Team Info Text		Tahoma		Regular		13	default
+800_Team Info Text		Tahoma		Regular		13	default
+1024_Team Info Text		Verdana		Regular		16	default
+1152_Team Info Text		Verdana		Regular		16	default
+1280_Team Info Text		Verdana		Regular		18	default
+1366_Team Info Text		Verdana		Regular		18	default
+1440_Team Info Text		Verdana		Regular		19	default
+1600_Team Info Text		Verdana		Regular		20	default
+1920_Team Info Text		Verdana		Regular		22	default
+2400_Team Info Text		Verdana		Regular		25	default
+
+; -----------------
+; Title Font (VGUI)
+; -----------------
+
+640_Title Font			Tahoma		Bold		18	default
+800_Title Font			Verdana		Bold		20	default
+1024_Title Font			Arial		Bold		20	default
+1152_Title Font			Arial		Bold		24	default
+1280_Title Font			Arial		Bold		27	default
+1366_Title Font			Arial		Bold		27	default
+1440_Title Font			Arial		Bold		28	default
+1600_Title Font			Arial		Bold		32	default
+1920_Title Font			Arial		Bold		34	default
+2400_Title Font			Arial		Bold		37	default

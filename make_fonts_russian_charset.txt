@@ -1,0 +1,129 @@
+;=======================================================================================
+; Targa Name			Typeface	Font Style	Size	Charset
+;=======================================================================================
+
+; -----------------
+; Basic Text (VGUI)
+; -----------------
+
+640_Basic Text			Arial		Regular		17	russian
+
+; --------------------
+; Briefing Text (VGUI)
+; --------------------
+
+640_Briefing Text		Tahoma		Regular		12	russian
+800_Briefing Text		Tahoma		Regular		13	russian
+1024_Briefing Text		Verdana		Regular		16	russian
+1152_Briefing Text		Verdana		Regular		16	russian
+1280_Briefing Text		Verdana		Regular		18	russian
+1366_Briefing Text		Verdana		Regular		18	russian
+1440_Briefing Text		Verdana		Regular		19	russian
+1600_Briefing Text		Verdana		Regular		20	russian
+1920_Briefing Text		Verdana		Regular		22	russian
+2400_Briefing Text		Verdana		Regular		25	russian
+
+; ------------------------
+; Command Menu Text (VGUI)
+; ------------------------
+
+640_CommandMenu Text		Tahoma		Bold		12	russian
+800_CommandMenu Text		Tahoma		Bold		13	russian
+1024_CommandMenu Text		Verdana		Bold		16	russian
+1152_CommandMenu Text		Verdana		Bold		16	russian
+1280_CommandMenu Text		Verdana		Bold		18	russian
+1366_CommandMenu Text		Verdana		Bold		18	russian
+1440_CommandMenu Text		Verdana		Bold		19	russian
+1600_CommandMenu Text		Verdana		Bold		20	russian
+1920_CommandMenu Text		Verdana		Bold		22	russian
+2400_CommandMenu Text		Verdana		Bold		25	russian
+
+; --------------------------
+; Primary Button Text (VGUI)
+; --------------------------
+
+640_Primary Button Text		Tahoma		Bold		12	russian
+800_Primary Button Text		Tahoma		Bold		13	russian
+1024_Primary Button Text	Verdana		Bold		16	russian
+1152_Primary Button Text	Verdana		Bold		16	russian
+1280_Primary Button Text	Verdana		Bold		18	russian
+1366_Primary Button Text	Verdana		Bold		18	russian
+1440_Primary Button Text	Verdana		Bold		19	russian
+1600_Primary Button Text	Verdana		Bold		20	russian
+1920_Primary Button Text	Verdana		Bold		22	russian
+2400_Primary Button Text	Verdana		Bold		25	russian
+
+; ----------------------------
+; Scoreboard Small Text (VGUI)
+; ----------------------------
+
+640_Scoreboard Small Text	Tahoma		Regular		12	russian
+800_Scoreboard Small Text	Tahoma		Regular		13	russian
+1024_Scoreboard Small Text	Verdana		Regular		16	russian
+1152_Scoreboard Small Text	Verdana		Regular		16	russian
+1280_Scoreboard Small Text	Verdana		Regular		18	russian
+1366_Scoreboard Small Text	Verdana		Regular		18	russian
+1440_Scoreboard Small Text	Verdana		Regular		19	russian
+1600_Scoreboard Small Text	Verdana		Regular		20	russian
+1920_Scoreboard Small Text	Verdana		Regular		22	russian
+2400_Scoreboard Small Text	Verdana		Regular		25	russian
+
+; ----------------------
+; Scoreboard Text (VGUI)
+; ----------------------
+
+640_Scoreboard Text		Tahoma		Regular		12	russian
+800_Scoreboard Text		Tahoma		Regular		13	russian
+1024_Scoreboard Text		Verdana		Regular		16	russian
+1152_Scoreboard Text		Verdana		Regular		16	russian
+1280_Scoreboard Text		Verdana		Regular		18	russian
+1366_Scoreboard Text		Verdana		Regular		18	russian
+1440_Scoreboard Text		Verdana		Regular		19	russian
+1600_Scoreboard Text		Verdana		Regular		20	russian
+1920_Scoreboard Text		Verdana		Regular		22	russian
+2400_Scoreboard Text		Verdana		Regular		25	russian
+
+; ----------------------------
+; Scoreboard Title Text (VGUI)
+; ----------------------------
+
+640_Scoreboard Title Text	Tahoma		Bold		12	russian
+800_Scoreboard Title Text	Verdana		Bold		14	russian
+1024_Scoreboard Title Text	Arial		Bold		20	russian
+1152_Scoreboard Title Text	Arial		Bold		24	russian
+1280_Scoreboard Title Text	Arial		Bold		27	russian
+1366_Scoreboard Title Text	Arial		Bold		27	russian
+1440_Scoreboard Title Text	Arial		Bold		28	russian
+1600_Scoreboard Title Text	Arial		Bold		32	russian
+1920_Scoreboard Title Text	Arial		Bold		34	russian
+2400_Scoreboard Title Text	Arial		Bold		37	russian
+
+; ---------------------
+; Team Info Text (VGUI)
+; ---------------------
+
+640_Team Info Text		Tahoma		Regular		13	russian
+800_Team Info Text		Tahoma		Regular		13	russian
+1024_Team Info Text		Verdana		Regular		16	russian
+1152_Team Info Text		Verdana		Regular		16	russian
+1280_Team Info Text		Verdana		Regular		18	russian
+1366_Team Info Text		Verdana		Regular		18	russian
+1440_Team Info Text		Verdana		Regular		19	russian
+1600_Team Info Text		Verdana		Regular		20	russian
+1920_Team Info Text		Verdana		Regular		22	russian
+2400_Team Info Text		Verdana		Regular		25	russian
+
+; -----------------
+; Title Font (VGUI)
+; -----------------
+
+640_Title Font			Tahoma		Bold		18	russian
+800_Title Font			Verdana		Bold		20	russian
+1024_Title Font			Arial		Bold		20	russian
+1152_Title Font			Arial		Bold		24	russian
+1280_Title Font			Arial		Bold		27	russian
+1366_Title Font			Arial		Bold		27	russian
+1440_Title Font			Arial		Bold		28	russian
+1600_Title Font			Arial		Bold		32	russian
+1920_Title Font			Arial		Bold		34	russian
+2400_Title Font			Arial		Bold		37	russian
